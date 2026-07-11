@@ -1,0 +1,15 @@
+Date,Payer Name,Amount,Payment Method,Reference/Notes
+2026-07-01,John Smith,500,Bank Transfer,Q3 Sponsorship
+2026-07-02,Sarah Johnson,1000,Credit Card,Event Ticket Sales
+2026-07-03,M. Chen,750,Check,Workshop - Michael Chen
+2026-07-04,E. Davis,250,PayPal,Membership - Emma Davis
+2026-07-05,Robert Wilson,600,Bank Transfer,Donation
+2026-07-06,Lisa Anderson,450,Credit Card,Course Registration
+2026-07-07,James Martinez,800,Check,Conference Attendance
+2026-07-08,Jennifer Taylor,350,PayPal,Raffle Ticket
+2026-07-09,David Brown,1100,Bank Transfer,Sponsorship Package
+2026-07-10,Patricia Lee,525,Credit Card,Workshop Fee
+2026-07-10,Patricia Lee,100,Check,DUPLICATE ENTRY - Error
+2026-07-11,Unknown Donor,250,Cash,Anonymous Donation
+2026-07-12,Sarah Johnson,500,Bank Transfer,Additional Event Sponsorship
+2026-07-12,Robert Wilson,100,Credit Card,Late Fee
