@@ -1,0 +1,18 @@
+Date,Category,Assignment,Score,Max Points,Percentage
+2026-01-15,Homework,HW 1 - Intro to Python,45,50,90%
+2026-01-22,Homework,HW 2 - Lists & Loops,48,50,96%
+2026-01-29,Homework,HW 3 - Functions,50,50,100%
+2026-02-05,Homework,HW 4 - Data Structures,42,50,84%
+2026-02-12,Homework,HW 5 - OOP Basics,47,50,94%
+
+2026-01-20,Quiz,Quiz 1 - Python Basics,8,10,80%
+2026-02-03,Quiz,Quiz 2 - Control Flow,7,10,70%
+2026-02-17,Quiz,Quiz 3 - Functions,9,10,90%
+2026-03-03,Quiz,Quiz 4 - Data Structures,8,10,80%
+
+2026-02-28,Midterm,Midterm Exam,78,100,78%
+
+2026-04-15,Project,Project 1 - Simple Game,85,100,85%
+2026-05-15,Project,Project 2 - Data Analysis,92,100,92%
+
+2026-06-20,Final Exam,Final Exam (TBD),0,100,0%

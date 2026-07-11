@@ -1,0 +1,22 @@
+CATEGORY WEIGHTS
+Category,Weight,Notes
+Homework,20%,5 assignments - lowest score dropped
+Quizzes,20%,4 quizzes - lowest score dropped
+Midterm Exam,20%,Cannot be dropped
+Projects,20%,2 projects - average of both counts
+Final Exam,20%,Can replace Midterm if higher
+
+SPECIAL RULES
+Rule,Description
+Dropped Scores,"Homework: drop 1 lowest score, Quizzes: drop 1 lowest score"
+Final Exam Replacement,"If Final Exam % > Midterm Exam %, replace Midterm with Final Exam score"
+Attendance Bonus,"+2% bonus if attendance >= 95%"
+Late Submission Penalty,"-5% per day late (maximum -20% penalty)"
+
+GRADE SCALE
+Grade,Minimum %,Maximum %
+A,90,100
+B,80,89
+C,70,79
+D,60,69
+F,0,59
